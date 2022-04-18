@@ -1,1 +1,3 @@
 # On-Fractional-Modeling-for-Earthquake
+
+It is well known that earthquakes are one of the most common epidemics of all time; thus, it is critical to make earthquake prediction easier and more accurate. Furthermore, earthquakes have a detrimental influence on many structures due to vibration, which causes structural elements to break. Our project's main purpose is to model earthquakes using fractional order differential equations. In this study, we looked at the terminology and broad outline of fractional earthquake modeling before diving into analyzing and modeling our data using fractional differential equations ideas to derive important insights depicted in the graphs. Finally, we used MATLAB to simulate our dataset. All the graphs had acceptable accuracies.
