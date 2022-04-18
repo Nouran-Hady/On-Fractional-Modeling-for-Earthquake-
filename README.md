@@ -1,1 +1,1 @@
-# On-Fractional-Modeling-for-Earthquake-
+# On-Fractional-Modeling-for-Earthquake
